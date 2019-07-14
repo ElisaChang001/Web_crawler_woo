@@ -1,3 +1,7 @@
 requests
 bs4
 pandas
+pygsheets
+
+html5lib
+lxml
